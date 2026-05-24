@@ -38,7 +38,7 @@ function toggleDarkMode() {
             <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
-          <span class="logo-text">Vue Router Blog</span>
+          <span class="logo-text">STELLA'S BLOG</span>
         </router-link>
       </div>
 
